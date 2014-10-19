@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern.csproj", "{287B6BC9-102D-4AEC-900C-C4D0315E211E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "..\ObserverPattern\ObserverPattern.csproj", "{282C550A-0B90-4329-AF5C-0B6EFC1C60A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "..\DecoratorPattern\DecoratorPattern.csproj", "{3B89D9E0-DC55-4815-A334-7BC72A17FE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287B6BC9-102D-4AEC-900C-C4D0315E211E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287B6BC9-102D-4AEC-900C-C4D0315E211E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287B6BC9-102D-4AEC-900C-C4D0315E211E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287B6BC9-102D-4AEC-900C-C4D0315E211E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282C550A-0B90-4329-AF5C-0B6EFC1C60A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282C550A-0B90-4329-AF5C-0B6EFC1C60A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282C550A-0B90-4329-AF5C-0B6EFC1C60A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282C550A-0B90-4329-AF5C-0B6EFC1C60A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B89D9E0-DC55-4815-A334-7BC72A17FE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B89D9E0-DC55-4815-A334-7BC72A17FE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B89D9E0-DC55-4815-A334-7BC72A17FE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B89D9E0-DC55-4815-A334-7BC72A17FE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

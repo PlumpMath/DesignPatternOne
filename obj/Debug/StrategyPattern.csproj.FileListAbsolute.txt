@@ -1,0 +1,5 @@
+C:\Users\Saifullah\Documents\Visual Studio 2012\Projects\DesignPatternOne\bin\Debug\DesignPatternOne.exe
+C:\Users\Saifullah\Documents\Visual Studio 2012\Projects\DesignPatternOne\bin\Debug\DesignPatternOne.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2012\Projects\DesignPatternOne\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2012\Projects\DesignPatternOne\obj\Debug\DesignPatternOne.exe
+C:\Users\Saifullah\Documents\Visual Studio 2012\Projects\DesignPatternOne\obj\Debug\DesignPatternOne.pdb
